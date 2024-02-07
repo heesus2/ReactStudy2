@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sidebar",
+=======
+  "name": "reactstudy",
+>>>>>>> 9cdf67ca9db61053bac5f6e67f561980f639621c
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,10 +12,13 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-icons": "^5.0.1",
     "react-minimal-side-navigation": "^1.9.2",
     "react-pro-sidebar": "^1.1.0-alpha.2",
     "react-router-dom": "^6.21.3",
+=======
+>>>>>>> 9cdf67ca9db61053bac5f6e67f561980f639621c
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },

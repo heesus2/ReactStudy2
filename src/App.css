@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
 /* background: #FFF9F5; */
 body{
@@ -73,3 +74,9 @@ header svg{
 }
 
 
+=======
+div {
+    text-align: center;
+    padding: 30px;
+}
+>>>>>>> 9cdf67ca9db61053bac5f6e67f561980f639621c
